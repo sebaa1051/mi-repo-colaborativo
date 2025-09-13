@@ -1,6 +1,3 @@
 Este archivo fue creado como tarea de sincronizacion
-<<<<<<< HEAD
 Línea añadida en local en la tarea.
-=======
 Línea añadida desde GitHub en la tarea.
->>>>>>> 37ba7a4687d531d41058555da0e0795d8ad97476
