@@ -1,1 +1,2 @@
 Este archivo fue creado como tarea de sincronizacion
+Línea añadida desde GitHub en la tarea.
